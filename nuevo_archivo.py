@@ -27,3 +27,4 @@ with open("nuevo_archivo.csv", "r") as archivo_csv:
 #DictReader sirve para leer un archivo csv y convertir cada fila en diccionario
 #utilizamos for para recorrer la lista de informacion y así poder buscar cuál es mayor y menor
 #writerow sirve para escribir múltiples filas a un archivo csv de una sola vez. Cada fila que se escribe debe ser una secuencia de valores.Ejemplo, una lista o una tupla
+print ("holiwis")
